@@ -17,7 +17,7 @@ int main()
         printf("Could not find method");
         return 1;
     }
-    hello_ariel("Ariel");
+    hello_ariel("ariel");
 
     return 0;
 }

@@ -18,4 +18,6 @@ int main()
         return 1;
     }
     hello_ariel("Ariel");
+
+    return 0;
 }
